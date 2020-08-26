@@ -5,10 +5,14 @@ I am Sina...
 Here are some ideas to get you started:
 
 🔭 I’m currently working on NLP and Computer Vision...
+
 🌱 I’m currently learning about advance privacy topics in Deep Learning..
+
 👯 I’m looking to collaborate on NLP advancements in the medical domain..
 🤔 I’m looking for help with my company!
+
 💬 Ask me about Deep Learning, privacy, NLP, AI in medical domain...
+
 📫 How to reach me: **[Email me!](amirsina.torfi@gmail.com)**
 
 
