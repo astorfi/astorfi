@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 💬 Ask me about Deep Learning, privacy, NLP, AI in medical domain...
 
-📫 How to reach me: **[Email me!](https://wwww.sinatorfi.com)**
+📫 How to reach me: **[My personal website!](https://www.sinatorfi.com)**
 
 
 ### 🚀 Things I do
