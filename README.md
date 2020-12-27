@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 🚀 Things I do
 
-- **Founder of Instill AI**, solving NLP automation and privacy issues.
+- **Founder of [Instill AI](https://instillai.com/)**, enhancing the utilization of AI.
 - **Founder of Machine Learning Mindset blog** at **[MLM](https://www.machinelearningmindset.com/)**, enhancing the practice of AI and Machine Learning.
 - Contributing on **NLP** and **Computer Vision in medical domain**.
 
