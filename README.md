@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 ### 🚀 Honors
 - **Top-1000 Github developers in the World**. Check at at **[Git-Awards](https://gitstar-ranking.com/astorfi)**
 
-##$ 🏆GitHub Trophies
+### 🏆GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=astorfi&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ### 📊GitHub Stats :
