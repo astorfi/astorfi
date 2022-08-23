@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ### Languages and frameworks
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tensorflow.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title="spring" alt="spring" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="40" height="40"/>&nbsp;
