@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 - Contributing on **NLP** and **Computer Vision in medical domain**.
 
 ### 🚀 Honors
-
-- **Top-20 Github Python developers in the USA**. Check at at **[Git-Awards](http://git-awards.com/users/astorfi)**
-- **Top-100 Github Python developers in the USA**. Check at at **[Git-Awards](http://git-awards.com/users/astorfi)**
+- **Top-1000 Github developers in the World**. Check at at **[Git-Awards](https://gitstar-ranking.com/astorfi)**
 
 ### 📬 Find me at
 
