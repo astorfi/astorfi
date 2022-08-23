@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=astorfi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=astorfi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ### 📬 Find me at
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://www.linkedin.com/in/amirsinatorfi/)
