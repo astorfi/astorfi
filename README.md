@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ### 📊GitHub Stats :
 
 
-![](https://github-readme-stats.vercel.app/api?username=astorfi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=astorfi&theme=dark&show_icons=true)
 
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=vahidalizadeh&theme=radical&hide_border=false)<br/> -->
