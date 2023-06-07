@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.machinelearningmindset.com/)](https://www.machinelearningmindset.com/) 
 
 
-
 ### 🚀 Things I do
 
 - Open to contract positions as a senior data scientist and deep learning expert.
