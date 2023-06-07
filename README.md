@@ -44,14 +44,10 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=astorfi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=astorfi&theme=dracula&hide_border=true)
-
 
 ### 📬 Find me at
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://www.linkedin.com/in/amirsinatorfi/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adieujw@gmail.com)](mailto:amirsina.torfi@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.machinelearningmindset.com/)](https://www.machinelearningmindset.com/) 
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=astorfi&show_icons=true&hide_border=False)](https://github.com/astorfi)
 
