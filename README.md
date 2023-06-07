@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 <!-- 📫 How to reach me: **[My LinkedIn!](https://www.linkedin.com/in/amirsinatorfi/)** -->
 
+### 📬 Find me at
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://www.linkedin.com/in/amirsinatorfi/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.machinelearningmindset.com/)](https://www.machinelearningmindset.com/) 
+
+
 
 ### 🚀 Things I do
 
@@ -41,11 +47,4 @@ Here are some ideas to get you started:
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=vahidalizadeh&theme=radical&hide_border=false)<br/> -->
 
 ![](http://github-readme-streak-stats.herokuapp.com?user=astorfi&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)<br/>
-
-
-### 📬 Find me at
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://www.linkedin.com/in/amirsinatorfi/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adieujw@gmail.com)](mailto:amirsina.torfi@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.machinelearningmindset.com/)](https://www.machinelearningmindset.com/) 
 
