@@ -9,14 +9,13 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on NLP and Computer Vision...
 
-🌱 I’m currently learning about advance privacy topics in Deep Learning..
+🌱 I’m currently learning about advance topics in Deep Learning..
 
-👯 I’m looking to collaborate on NLP advancements in the medical domain..
-🤔 I’m looking for help with my company!
+👯 I’m looking to collaborate on NLP advancements..
 
-💬 Ask me about Deep Learning, privacy, NLP, AI in medical domain...
+💬 Ask me about Deep Learning, privacy, NLP, AI...
 
-<!-- 📫 How to reach me: **[My personal website!](https://www.sinatorfi.com)** -->
+<!-- 📫 How to reach me: **[My LinkedIn!](https://www.linkedin.com/in/amirsinatorfi/)** -->
 
 
 ### 🚀 Things I do
@@ -24,7 +23,7 @@ Here are some ideas to get you started:
 - Open to contract positions as a senior data scientist and deep learning expert.
 - **Founder of [Instill AI](https://instillai.com/)**, enhancing the utilization of AI.
 - **Founder of Machine Learning Mindset blog** at **[MLM](https://www.machinelearningmindset.com/)**, enhancing the practice of AI and Machine Learning.
-- Contributing on **NLP** and **Computer Vision in medical domain**.
+- Contributing on **NLP** and **Computer Vision**.
 
 ### 🚀 Honors
 - **Top-1000 Github developers in the World**. Check at at **[Git-Awards](https://gitstar-ranking.com/astorfi)**
