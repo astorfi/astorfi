@@ -42,8 +42,6 @@ Here are some ideas to get you started:
 
 ![](http://github-readme-streak-stats.herokuapp.com?user=astorfi&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=astorfi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 ### 📬 Find me at
 
