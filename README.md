@@ -23,13 +23,6 @@ Here are some ideas to get you started:
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.machinelearningmindset.com/)](https://www.machinelearningmindset.com/) 
 
 
-### 🚀 Things I do
-
-- Open to contract positions as a senior data scientist and deep learning expert.
-- **Founder of [Instill AI](https://instillai.com/)**, enhancing the utilization of AI.
-- **Founder of Machine Learning Mindset blog** at **[MLM](https://www.machinelearningmindset.com/)**, enhancing the practice of AI and Machine Learning.
-- Contributing on **NLP** and **Computer Vision**.
-
 ### 🚀 Honors
 - **Top-1000 Github developers in the World**. Check at at **[Git-Awards](https://gitstar-ranking.com/astorfi)**
 
