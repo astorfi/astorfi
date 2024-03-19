@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ### 🌐Socials
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://www.linkedin.com/in/amirsinatorfi/)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.machinelearningmindset.com/)](https://www.machinelearningmindset.com/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://www.linkedin.com/in/sinaml/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://medium.com/machine-learning-mindset)](https://medium.com/machine-learning-mindset) 
 
 
 ### 🚀 Honors
