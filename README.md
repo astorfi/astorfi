@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://medium.com/machine-learning-mindset)](https://medium.com/machine-learning-mindset) 
 
 
-### 🚀 Honors
-- **Top-1000 Github developers in the World**. Check at at **[Git-Awards](https://gitstar-ranking.com/astorfi)**
-
 ### 🏆GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=astorfi&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
