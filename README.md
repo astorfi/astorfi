@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### 🖥️ Open-Source Projects
 <table>
-<tr><th>Machine Learning & AI </th><th>PyPi Packages</th></tr>
+<tr><th>Machine Learning & AI </th>
 <tr><td>
 
 |Title | Stars | Technologies|
@@ -52,16 +52,6 @@ Here are some ideas to get you started:
 | [Vanilla Numpy CNN](https://github.com/astorfi/Numpy-CNN) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/Numpy-CNN?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
 | [Vanilla Numpy NN](https://github.com/astorfi/Numpy-NeuralNet-1) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/Numpy-NeuralNet-1?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
 
-</td><td>
-
-|Title | Stars | Technologies|
-|--|--|--|
-| [High SQL](https://github.com/astorfi/high-sql) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/high-sql?style=flat-square&labelColor=black"/> | [![SQLPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/high-sql/) ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) <br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![SQLDown](https://static.pepy.tech/personalized-badge/high-sql?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/high-sql) |
-| [Cloud File Manager](https://github.com/astorfi/cloud-filemanager) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/cloud-filemanager?style=flat-square&labelColor=black"/> | [![CloudPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/cloud-filemanager/) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox) <br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![CloudDown](https://static.pepy.tech/personalized-badge/cloud-filemanager?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/cloud-filemanager)|
-| [YAML Wrapper](https://github.com/astorfi/yaml-config-wrapper) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/yaml-config-wrapper?style=flat-square&labelColor=black"/> | [![YamlPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/yaml-config-wrapper/)![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) <br> [![YAMLDown](https://static.pepy.tech/personalized-badge/yaml-config-wrapper?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/yaml-config-wrapper)|
-| [Color Logger](https://github.com/astorfi/termcolor-logger) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/termcolor-logger?style=flat-square&labelColor=black"/> | [![LogPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/termcolor-logger/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) <br>[![LogDown](https://static.pepy.tech/personalized-badge/termcolor-logger?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/termcolor-logger)|
-| [Email Sender](https://github.com/astorfi/pyemail-sender) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/pyemail-sender?style=flat-square&labelColor=black"/> | [![MailPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/pyemail-sender/) ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) <br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) [![MailDown](https://static.pepy.tech/personalized-badge/pyemail-sender?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/pyemail-sender) |
-| [Benchmark Tools](https://github.com/astorfi/bench-utils) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/bench-utils?style=flat-square&labelColor=black"/> | [![BenchPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/bench-utils/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) <br> [![BenchDown](https://static.pepy.tech/personalized-badge/bench-utils?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/bench-utils) |
-
-</td></tr> </table>
+</td>
+</tr> </table>
 
