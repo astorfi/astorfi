@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### 🖥️ Open-Source Projects
 <table>
-<tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
+<tr><th>Machine Learning & AI </th><th>PyPi Packages</th></tr>
 <tr><td>
 
 |Title | Stars | Technologies|
@@ -64,42 +64,4 @@ Here are some ideas to get you started:
 | [Benchmark Tools](https://github.com/astorfi/bench-utils) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/bench-utils?style=flat-square&labelColor=black"/> | [![BenchPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/bench-utils/) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) <br> [![BenchDown](https://static.pepy.tech/personalized-badge/bench-utils?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/bench-utils) |
 
 </td></tr> </table>
-
-<table>
-<tr><th>Bots </th><th>Misc Projects </th></tr>
-<tr><td>
-
-|Title | Stars | Technologies|
-|--|--|--|
-| [Youtube Comment Bot](https://github.com/astorfi/Youtube-FirstCommentBot) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/Youtube-FirstCommentBot?style=flat-square&labelColor=black"/> | ![YT](https://img.shields.io/badge/API-black?style=flat-square&logo=youtube) ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox)<br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![RDS](https://img.shields.io/badge/RDS-black?style=flat-square&logo=amazonaws)<br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku) |
-| [Job Application Bot](https://github.com/astorfi/JobApplicationBot) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/JobApplicationBot?style=flat-square&labelColor=black"/> | ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox)<br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![RDS](https://img.shields.io/badge/RDS-black?style=flat-square&logo=amazonaws)<br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku) |
-
-</td><td>
-
-|Title | Stars | Technologies|
-|--|--|--|
-| [Spotify Button Presser](https://github.com/astorfi/SpotiClick) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/SpotiClick?style=flat-square&labelColor=black"/> | ![Raspberry](https://img.shields.io/badge/Raspberry-black?style=flat-square&logo=Raspberry) ![Spotify](https://img.shields.io/badge/API-black?style=flat-square&logo=spotify) <br> ![Switchbot](https://img.shields.io/badge/SwitchBot-black?style=flat-square&logo=arduino)|
-| [Cross The Floor](https://github.com/astorfi/Cross-The-Floor) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/Cross-The-Floor?style=flat-square&labelColor=black"/> | ![Sankey Diagram](https://img.shields.io/badge/Sankey-black?style=flat-square&logo=plotly) <br> ![Wiki](https://img.shields.io/badge/Scrapper-black?style=flat-square&logo=wikipedia)|
-| [2D Shooter Game](https://github.com/astorfi/shooter-game-with-p5js) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/shooter-game-with-p5js?style=flat-square&labelColor=black"/> | ![p5](https://img.shields.io/badge/P5.js-black?style=flat-square&logo=p5dotjs)|
-| [Quantum Mechanics Quiz App](https://github.com/astorfi/Quantum-Mechanics-Quiz-App) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/Quantum-Mechanics-Quiz-App?style=flat-square&labelColor=black"/> | ![android](https://img.shields.io/badge/App-black?style=flat-square&logo=android)|
-
-</td></tr> </table>
-
-<details>
-<summary>📈 Stats</summary>
-<br>
-My Github Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astorfi&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=astorfi&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=astorfi&theme=dracula)
-
-
-<br>
-Currently Coding & Listening to:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
-
-</details>
 
