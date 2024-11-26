@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [Minecraft-AI](https://github.com/astorfi/Minecraft-AI) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/Minecraft-AI?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
+| [TensorFlow World](https://github.com/astorfi/TensorFlow-World) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/TensorFlow-World?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
 | [3D Semantic Segmentation](https://github.com/astorfi/3D-Semantic-Segmentation) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/3D-Semantic-Segmentation?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
 | [Bert Rinehart Novels](https://github.com/astorfi/Bert-Rinehart-Novels) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/Bert-Question-Answering?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Spacy](https://img.shields.io/badge/Spacy-black?style=flat-square&logo=spacy)|
 | [Car Accidents Pred.](https://github.com/astorfi/accident-severity-prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/accident-severity-prediction?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)|
