@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 |Title | Stars | Technologies|
 |--|--|--|
 | [TensorFlow World](https://github.com/astorfi/TensorFlow-World) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/TensorFlow-World?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
+| [TensorFlow-Course](https://github.com/instillai/TensorFlow-Course) | <img alt="Stars" src="https://img.shields.io/github/stars/instillai/TensorFlow-Course?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
+| [instillai/machine-learning-course](https://github.com/instillai/machine-learning-course) | <img alt="Stars" src="https://img.shields.io/github/stars/instillai/machine-learning-course?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
 | [3D convolutional speaker recognition](https://github.com/astorfi/3D-convolutional-speaker-recognition) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/3D-convolutional-speaker-recognition?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
 | [SpeechPy](https://github.com/astorfi/speechpy) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/speechpy?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Spacy](https://img.shields.io/badge/Spacy-black?style=flat-square&logo=spacy)|
 | [lip-reading-deeplearning](https://github.com/astorfi/lip-reading-deeplearning) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/lip-reading-deeplearning?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)|
@@ -50,7 +52,7 @@ Here are some ideas to get you started:
 | [audio-diffusion-tutorial](https://github.com/astorfi/audio-diffusion-tutorial) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/audio-diffusion-tutorial?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
 | [cor-gan](https://github.com/astorfi/cor-gan) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/cor-gan?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
 | [attention-guided-sparsity](https://github.com/astorfi/attention-guided-sparsity) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/attention-guided-sparsity?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
-| [Vanilla Numpy NN](https://github.com/astorfi/Numpy-NeuralNet-1) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/Numpy-NeuralNet-1?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
+
 
 </td>
 </tr> </table>
