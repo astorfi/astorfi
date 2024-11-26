@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ![](http://github-readme-streak-stats.herokuapp.com?user=astorfi&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)<br/>
 
-### 🖥️ Open-Source Projects
+### 🖥️ Selected Open-Source Projects
 <table>
 <tr><th>Machine Learning & AI </th>
 <tr><td>
