@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [TensorFlow World](https://github.com/astorfi/TensorFlow-World) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/TensorFlow-World?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
+| [TensorFlow World](https://github.com/astorfi/TensorFlow-World) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/TensorFlow-World?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![Python](https://img.shields.io/badge/PY-black?style=flat-square&logo=python)|
 | [TensorFlow-Course](https://github.com/instillai/TensorFlow-Course) | <img alt="Stars" src="https://img.shields.io/github/stars/instillai/TensorFlow-Course?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
 | [instillai/machine-learning-course](https://github.com/instillai/machine-learning-course) | <img alt="Stars" src="https://img.shields.io/github/stars/instillai/machine-learning-course?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
 | [3D convolutional speaker recognition](https://github.com/astorfi/3D-convolutional-speaker-recognition) | <img alt="Stars" src="https://img.shields.io/github/stars/astorfi/3D-convolutional-speaker-recognition?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
