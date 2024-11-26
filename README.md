@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jang-won-park/)](https://www.linkedin.com/in/sinalk/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://medium.com/machine-learning-mindset)](https://medium.com/machine-learning-mindset) 
-[![Website](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://astorfi.github.io)]([https://medium.com/machine-learning-mindset](https://astorfi.github.io)) 
+[![Website](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://astorfi.github.io)](https://astorfi.github.io)) 
 
 
 ### 🏆GitHub Trophies
